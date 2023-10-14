@@ -1,4 +1,11 @@
-# <img width="50" height="50" alt="" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" /> Junior Dantas
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/juniord-dev/juniord-dev/assets/116525934/d185c3bb-9235-4344-8d44-fd9433bbad7c">
+
+<h1>
+    <a href="https://juniord-dev.github.io/">
+     <img align="center" alt="Dev Gif" width="36px" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></a>
+    <span>Junior Dantas</span>
+</h1>
+
 💪 Graduated Personal Trainer who has been curious about technology since i was little.
 
 🏜️ I’m currently living in Petrolina - PE , Brazil.
@@ -53,3 +60,8 @@
  
 
 **News soon...**
+
+ <details align="left">
+  <summary></summary>
+<a href="https://br.freepik.com/vetores-gratis/ilustracao-do-conceito-de-programacao_7118758.htm#query=desenvolvedor%20web&position=26&from_view=keyword&track=ais">Imagem de storyset</a> no Freepik
+</details>
