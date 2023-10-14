@@ -40,9 +40,6 @@
 [![YouTube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube)](https://www.linkedin.com/in/juniordantas01/)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCv9ReihcpRBmwnMCXzQSbfA?style=flat&logo=youtube)
 
-
-
-
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juniord-dev&layout=compact&bg_color=000&border_color=fc4e03&show_icons=true&icon_color=f40061&title_color=fc4e03&text_color=FFF)
 
@@ -50,6 +47,8 @@
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=juniord-dev&repo=dio-lab-open-source&bg_color=000&border_color=fc4e03&show_icons=true&icon_color=f40061&title_color=fc4e03&text_color=FFF)](https://github.com/juniord-dev/dio-lab-open-source)
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=juniord-dev&repo=multi-calculadora&bg_color=000&border_color=fc4e03&show_icons=true&icon_color=f40061&title_color=fc4e03&text_color=FFF)](https://juniord-dev.github.io/multi-calculadora/)
+
+<img align="right" alt="My Octocat" height="380" src="https://github.com/juniord-dev/juniord-dev/assets/116525934/a19b6e68-b52d-424b-80e6-f31da8f3a35c">
 
 ### To visit all of my repositories
 
