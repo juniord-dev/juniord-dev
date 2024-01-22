@@ -53,9 +53,6 @@
 ### To visit all of my repositories
 
 [![Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-000?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/juniord-dev?tab=repositories)
-
-### My portfolio [Building]
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=juniord-dev&repo=juniord-dev.github.io&bg_color=000&border_color=fc4e03&show_icons=true&icon_color=f40061&title_color=fc4e03&text_color=FFF)](https://juniord-dev.github.io/)
  
 
 **News soon...**
