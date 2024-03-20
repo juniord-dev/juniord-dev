@@ -36,9 +36,8 @@
 ### Where to find me
 [![Perfil DIO](https://img.shields.io/badge/-My%20DIO%20Profile-0388fc?style=for-the-badge)](https://web.dio.me/users/etevaldo_dantas/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/juniordantaspersonal/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/juniordantas01/)
-[![YouTube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube)](https://www.linkedin.com/in/juniordantas01/)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCv9ReihcpRBmwnMCXzQSbfA?style=flat&logo=youtube)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/etevaldo-junior/)
+
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juniord-dev&layout=compact&bg_color=000&border_color=fc4e03&show_icons=true&icon_color=f40061&title_color=fc4e03&text_color=FFF)
